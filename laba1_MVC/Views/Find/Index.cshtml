@@ -1,0 +1,51 @@
+﻿@model laba1_MVC.Models.OperandsModel
+
+@{ 
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Index", "Find"))
+        {
+            <p>Enter x what you want to find:</p>
+            @Html.TextAreaFor(x => x.x);
+            //@{
+            //    string temp="";
+            //
+            //    for(int i=0; i < ; i++)
+            //    {
+            //
+            //    }
+            //}
+
+            //<td>@Html.TextArea("Array input", temp, new { id = "Array" });</td>
+
+            //for (int i = 0; i < Model.arr.Length; i++)
+            //{
+            //    <p>Number (@(i+1)) : </p>
+            //    @Html.EditorFor(x => x.arr[i]);
+            //}
+            //@Html.TextAreaFor(x => x.numbOfElements);
+
+            <p>Enter the array by white space: </p>
+            @Html.TextAreaFor(x => x.toArr);
+            
+
+            <input type="submit" value="Find" />
+        }
+    </div>
+    @if(!string.IsNullOrWhiteSpace(ViewBag.Result))
+    {
+        <p>@ViewBag.Result</p>
+    }
+</body>
+</html>
+
