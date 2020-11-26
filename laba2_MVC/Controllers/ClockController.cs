@@ -19,7 +19,10 @@ namespace laba2_MVC.Controllers
 
         public ActionResult Details(int id)
         {
-            var br = (from brand in db.Brand where brand.IdType == id select brand.Type).FirstOrDefault(); //чого після 5 не робить???
+            var br = (from brand in db.Brand
+                      join type in db.Type on brand.IdType equals type.IdType
+                      where brand.IdBrand == id
+                      select type).First(); 
             return View(br);
         }
     }
