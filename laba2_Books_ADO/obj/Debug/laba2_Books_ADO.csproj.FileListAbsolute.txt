@@ -1,0 +1,15 @@
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\bin\Debug\laba2_Books_ADO.exe.config
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\bin\Debug\laba2_Books_ADO.exe
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\bin\Debug\laba2_Books_ADO.pdb
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\obj\Debug\laba2_Books_ADO.csprojAssemblyReference.cache
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\obj\Debug\laba2_Books_ADO.Form1.resources
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\obj\Debug\laba2_Books_ADO.Properties.Resources.resources
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\obj\Debug\laba2_Books_ADO.csproj.GenerateResource.cache
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\obj\Debug\laba2_Books_ADO.exe
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\obj\Debug\laba2_Books_ADO.pdb
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\bin\Debug\EntityFramework.dll
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\bin\Debug\EntityFramework.xml
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Liza\Desktop\KPI\5sem\SoftwareDevelopmentTheory-2_labs\laba2_Books_ADO\obj\Debug\laba2_Books_ADO.csproj.CopyComplete

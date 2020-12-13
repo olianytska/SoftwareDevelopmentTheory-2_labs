@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2abdb7d8ebad49c5918eeae73607a544" Name="Diagram1">
+        <EntityTypeShape EntityType="Laba1Model.Author" Width="1.5" PointX="0.75" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Laba1Model.Book" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Laba1Model.Customer" Width="1.5" PointX="3" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="Laba1Model.Genre" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Laba1Model.Orders" Width="1.5" PointX="5.25" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="Laba1Model.Provider" Width="1.5" PointX="0.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Laba1Model.Publishing" Width="1.5" PointX="0.75" PointY="11.375" IsExpanded="true" />
+        <AssociationConnector Association="Laba1Model.FK_BookId_Author" ManuallyRouted="false" />
+        <AssociationConnector Association="Laba1Model.FK_BookId_Genre" ManuallyRouted="false" />
+        <AssociationConnector Association="Laba1Model.FK_BookId_Provider" ManuallyRouted="false" />
+        <AssociationConnector Association="Laba1Model.FK_BookId_Publishing" ManuallyRouted="false" />
+        <AssociationConnector Association="Laba1Model.FK_OrderId_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="Laba1Model.FK_OrderId_Customer" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
